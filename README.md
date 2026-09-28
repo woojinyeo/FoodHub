@@ -147,6 +147,8 @@ The project uses several visualizations to explore customer behavior and operati
 
 ![Visualization 3](images/Rating%20vs.%20Food%20Preparation%20Time.png)
 
+![Visualization 4](images/Heatmap.png)
+
 ## Tools and Libraries
 
 - Python
