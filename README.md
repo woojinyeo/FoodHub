@@ -143,9 +143,15 @@ The project uses several visualizations to explore customer behavior and operati
 
 ![Visualization 1](images/Weekday%20vs.%20Weekend.png)
 
+---
+
 ![Visualization 2](images/Cuisine%20Type%20vs.%20Food%20Preparation%20Time.png)
 
+---
+
 ![Visualization 3](images/Rating%20vs.%20Food%20Preparation%20Time.png)
+
+---
 
 ![Visualization 4](images/Heatmap.png)
 
