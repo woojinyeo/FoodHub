@@ -141,11 +141,11 @@ The project uses several visualizations to explore customer behavior and operati
 
 ### Featured Analysis
 
-![Visualization 1](images/visualization1.png)
+![Visualization 1](images/Weekday vs. Weekend.png)
 
-![Visualization 2](images/visualization2.png)
+![Visualization 2](images/Cuisine Type vs. Food Preparation Time.png)
 
-![Visualization 3](images/visualization3.png)
+![Visualization 3](images/Rating vs. Food Preparation Time.png)
 
 ## Tools and Libraries
 
